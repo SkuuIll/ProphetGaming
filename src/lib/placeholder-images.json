@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "Avatar for Alex Vortex",
+      "imageUrl": "https://picsum.photos/seed/a1/100/100",
+      "imageHint": "male gamer"
+    },
+    {
+      "id": "avatar2",
+      "description": "Avatar for Bella Nova",
+      "imageUrl": "https://picsum.photos/seed/a2/100/100",
+      "imageHint": "female artist"
+    },
+    {
+      "id": "avatar3",
+      "description": "Avatar for Chris Lee",
+      "imageUrl": "https://picsum.photos/seed/a3/100/100",
+      "imageHint": "male competitive"
+    },
+    {
+      "id": "avatar4",
+      "description": "Avatar for Diana Quest",
+      "imageUrl": "https://picsum.photos/seed/a4/100/100",
+      "imageHint": "female rpg"
+    },
+    {
+      "id": "avatar5",
+      "description": "Avatar for Ethan Forge",
+      "imageUrl": "https://picsum.photos/seed/a5/100/100",
+      "imageHint": "male developer"
+    },
+    {
+      "id": "avatar6",
+      "description": "Avatar for Fiona Pixel",
+      "imageUrl": "https://picsum.photos/seed/a6/100/100",
+      "imageHint": "female indie"
+    },
+    {
+      "id": "avatar7",
+      "description": "Avatar for GamerX",
+      "imageUrl": "https://picsum.photos/seed/a7/100/100",
+      "imageHint": "gaming mascot"
+    },
+    {
+      "id": "post1",
+      "description": "A screenshot from an open-world game",
+      "imageUrl": "https://picsum.photos/seed/p1/800/450",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "post2",
+      "description": "A cool streaming setup with RGB lights",
+      "imageUrl": "https://picsum.photos/seed/p2/800/450",
+      "imageHint": "gaming setup"
+    },
+    {
+      "id": "post3",
+      "description": "Art from an indie game",
+      "imageUrl": "https://picsum.photos/seed/p3/800/450",
+      "imageHint": "indie game"
+    }
+  ]
+}
